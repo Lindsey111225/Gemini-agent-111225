@@ -1,0 +1,5 @@
+{
+  "name": "CogniFlow-AgenticAI-System-111225",
+  "description": "An advanced agentic AI system to process, analyze, and interact with documents. Features PDF OCR, a multi-agent workflow, interactive text highlighting, customizable themes, and multi-language support, all powered by the Gemini API.",
+  "requestFramePermissions": []
+}
